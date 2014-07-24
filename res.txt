@@ -1,2 +1,7 @@
 aaaa
+<<<<<<< HEAD
 client
+=======
+added lines on server
+addes another line on server
+>>>>>>> origin/master
